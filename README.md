@@ -1,4 +1,4 @@
-# 🧮 Simple CLI Calculator
+## Simple CLI Calculator
 
 A lightweight and beginner-friendly command-line calculator built with Python.  
 Supports basic operations: **addition, subtraction, multiplication, division** 
@@ -19,29 +19,31 @@ All commands run from the terminal, with color-coded input prompts.
 
 ---
 
-## How to Run
+## Usage
 ```bash
 python calculator.py
 ```
 ---
 
-## Example Output
-### === Choose calculation category ===
+### Example Output
+**=== Choose calculation category ===**
 1. Addition
 2. Subtraction
 3. Multiplication
 4. Division
 5. Exit
-Choose category: 2
-Enter parameter 'a': 15
+
+Choose category: 2\
+Enter parameter 'a': 15\
 Enter parameter 'b': 5
+```
 Result: 10.0
 Note: 'a' and 'b' appear in cyan using ANSI escape codes (\033[96m...\033[0m)
-
+```
 ---
 
-## Folder Structure
-```text
+### Folder Structure
+```
 calculator/
 ├── calculator.py     # main CLI script
 ├── README.md         # this file
@@ -50,7 +52,7 @@ calculator/
 
 ---
 
-## Future Ideas
+### Future Ideas
 - Support operator input (+, -, etc.) instead of menu
 - Store history of operations
 - Add scientific calculator mode
@@ -58,15 +60,8 @@ calculator/
 
 ---
 
-## .gitignore
-```text
-__pycache__/
-*.pyc
-.DS_Store
-```
-
----
-
-## License
-This project is for learning and practice — feel free to use or modify it however you like.
+### License & Author
+- **License:** This project is license-free. All rights reserved.
+- **Author:** Pavel Kandrichin (aka michael-caenrich)
+- 🔗 [GitHub – michael-caenrich](https://github.com/michael-caenrich)
 

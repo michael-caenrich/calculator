@@ -1,4 +1,14 @@
+# Cache files
 __pycache__/
-*.pyc
+*.py[cod]
+
+# macOS files
 .DS_Store
+
+# JetBrains IDE settings
+.idea/
+
+# Logs and temporary files
+*.log
+
 spellchecker.txt
