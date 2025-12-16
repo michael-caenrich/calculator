@@ -19,6 +19,16 @@ All commands run from the terminal, with color-coded input prompts.
 
 ---
 
+### Requirements
+- **Python 3.8+**
+- Uses only the Python Standard Library (no extra dependencies)
+
+Install instructions (optional for development):
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 ```bash
 python calculator.py
@@ -61,7 +71,7 @@ calculator/
 ---
 
 ### License & Author
-- **License:** This project is license-free. All rights reserved.
+- **License:** [MIT License](LICENSE)
 - **Author:** Pavel Kandrichin (aka michael-caenrich)
 - 🔗 [GitHub – michael-caenrich](https://github.com/michael-caenrich)
 
