@@ -23,11 +23,7 @@ All commands run from the terminal, with color-coded input prompts.
 - **Python 3.8+**
 - Uses only the Python Standard Library (no extra dependencies)
 
-Install instructions (optional for development):
-
-```bash
-pip install -r requirements.txt
-```
+---
 
 ## Usage
 ```bash
